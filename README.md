@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, C#, SQL**
 
-- 👯 I’m looking to collaborate **with my classmates.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/yaoolee](https://github.com/yaoolee)
 
 - ⚡ Fun fact **I have a background from Finance & Business Management.**
