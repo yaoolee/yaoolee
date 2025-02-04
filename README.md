@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yaoolee](https://github.com/yaoolee)
 
-- ⚡ Fun fact **I have a background from Finance & Business Management.**
+- ⚡ Fun fact **I have a background in Finance & Business Management.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
