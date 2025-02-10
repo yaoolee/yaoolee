@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Yao Tiem Lee (a.k.a Justin 李)</h1>
 <h3 align="center">A passionate Web developer.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, C#, SQL**
+- I’m currently learning **HTML, CSS, JAVASCRIPT, C#, SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yaoolee](https://github.com/yaoolee)
+- All of my projects are available at [https://github.com/yaoolee](https://github.com/yaoolee)
 
-- ⚡ Fun fact **I have a background in Finance & Business Management.**
+- Fun fact **I have a background in Finance & Business Management.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
