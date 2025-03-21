@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Yao Tiem Lee (a.k.a Justin 李)</h1>
+<h1 align="center">Hello, I'm Yao Tiem Lee (Justin 李)</h1>
 <h3 align="center">A passionate Web developer.</h3>
 
 - I’m currently learning **HTML, CSS, JAVASCRIPT, C#, SQL**
