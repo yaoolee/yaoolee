@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>👋 Hi, I'm Yao Tiem Lee (Justin 李)</h1>
+  <h1>Hello, I'm Yao Tiem Lee (Justin 李)</h1>
   <h3>A Passionate Web Developer & Finance Professional</h3>
   <p>
     <a href="https://github.com/yaoolee">
@@ -36,6 +36,9 @@ All of my work lives here on GitHub: [yaoolee](https://github.com/yaoolee)
 </p>
 
 ---
+
+## Projects
+Coming soon.
 
 ## 📈 GitHub Stats
 
