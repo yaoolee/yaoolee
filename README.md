@@ -37,7 +37,7 @@ All of my work lives here on GitHub: [yaoolee](https://github.com/yaoolee)
 
 ---
 
-## Projects
+## 📁 Projects
 1. [Pokédex Companion](https://yaoolee.github.io/pet-project/)
 2. Work In Progress, Coming soon.
 
