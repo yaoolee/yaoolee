@@ -38,7 +38,8 @@ All of my work lives here on GitHub: [yaoolee](https://github.com/yaoolee)
 ---
 
 ## Projects
-Coming soon.
+1. [Pokédex Companion](https://yaoolee.github.io/pet-project/)
+Work In Progress, Coming soon.
 
 ## 📈 GitHub Stats
 
