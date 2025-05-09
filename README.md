@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/yaoolee/yaoolee/blob/main/ced1f4a1-ada3-447b-9f8c-3f052bbb51a9.png" width="900" style="border-radius:50%; margin-bottom:1rem;"/>
-  <h1>Hello, I'm Yao Tiem Lee (Justin 李)</h1>
+  <h1>Hello, I am Yao Tiem Lee (Justin 李)</h1>
   <h3>A Passionate Web Developer & Finance Professional</h3>
   <p>
     <a href="https://github.com/yaoolee">
@@ -15,7 +15,7 @@
 ---
 
 ## 📖 About Me
-I’m a web developer with a background in **Finance & Business Management**, currently honing my skills in:
+I am a web developer with a background in **Finance & Business Management**, currently honing my skills in:
 - **HTML5** & **CSS3** for responsive, accessible layouts  
 - **JavaScript** (ES6+) for dynamic front‑end experiences  
 - **C#, PHP** & **SQL** for back‑end services and data management  
@@ -52,6 +52,7 @@ All of my work lives here on GitHub: [yaoolee](https://github.com/yaoolee)
 ## 📫 Contact Me
 
 <p align="center">
+  Let's Connect!
   <a href="https://linkedin.com/in/yao-tiem-lee">
     <img src="https://img.shields.io/badge/LinkedIn-Yao%20Tiem%20Lee-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
