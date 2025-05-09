@@ -51,8 +51,9 @@ All of my work lives here on GitHub: [yaoolee](https://github.com/yaoolee)
 
 ## 📫 Contact Me
 
-<p align="center">
+<p>
   Let's Connect!
+  <br>
   <a href="https://linkedin.com/in/yao-tiem-lee">
     <img src="https://img.shields.io/badge/LinkedIn-Yao%20Tiem%20Lee-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
