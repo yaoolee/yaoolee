@@ -18,7 +18,7 @@
 I’m a web developer with a background in **Finance & Business Management**, currently honing my skills in:
 - **HTML5** & **CSS3** for responsive, accessible layouts  
 - **JavaScript** (ES6+) for dynamic front‑end experiences  
-- **C#** & **SQL** for back‑end services and data management  
+- **C#, PHP** & **SQL** for back‑end services and data management  
 
 All of my work lives here on GitHub: [yaoolee](https://github.com/yaoolee)
 
