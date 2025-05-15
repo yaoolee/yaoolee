@@ -32,6 +32,8 @@ All of my work lives here on GitHub: [yaoolee](https://github.com/yaoolee)
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-8A2BE2?style-for-the-badge&logo=php" />
+
 </p>
 
 ---
