@@ -43,7 +43,7 @@ All of my work lives here on GitHub: [yaoolee](https://github.com/yaoolee)
 2. Work In Progress, Coming soon.
 
 ## Upcoming Projects
-1. [Food Kart - Ecommerce](https://food-kart-5uf5.onrender.com)
+1. [Food Kart - Ecommerce](https://food-kart-5uf5.onrender.com) (P.S My very first page running backend: Node.js and Express, really enjoyed it) 
 
 ## 📈 GitHub Stats
 
