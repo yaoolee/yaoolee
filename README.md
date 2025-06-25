@@ -40,7 +40,8 @@ All of my work lives here on GitHub: [yaoolee](https://github.com/yaoolee)
 
 ## 📁 Projects
 1. [Pokédex Companion](https://yaoolee.github.io/pet-project/)
-2. Work In Progress, Coming soon.
+2. [Can you reach the end?](https://yaoolee.github.io/useless-website/)
+3. Work In Progress, Coming soon.
 
 ## 💪 Upcoming Projects
 1. [Food Kart - Ecommerce](https://food-kart-5uf5.onrender.com) (P.S My very first page running backend: Node.js and Express, really enjoyed it) 
