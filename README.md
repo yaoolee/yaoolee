@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/yaoolee/yaoolee/blob/main/ced1f4a1-ada3-447b-9f8c-3f052bbb51a9.png" width="900" style="border-radius:50%; margin-bottom:1rem;"/>
   <h1>Hello, I am Yao Tiem Lee (Justin 李)</h1>
-  <h3>A Passionate Web Developer & Finance Professional</h3>
+  <h3>A Passionate Web Developer</h3>
   <p>
     <a href="https://github.com/yaoolee">
       <img src="https://img.shields.io/badge/GitHub-yaoolee-181717?style=for-the-badge&logo=github" alt="GitHub"/>
