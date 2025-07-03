@@ -43,6 +43,9 @@ All of my work lives here on GitHub: [yaoolee](https://github.com/yaoolee)
 2. [Can you reach the end?](https://yaoolee.github.io/useless-website/)
 3. Work In Progress, Coming soon.
 
+## Vibe Coding Project
+[Daily 5-Minute Coding](https://yaoolee.github.io/five-minute-coding-habit/)
+
 ## 💪 Upcoming Projects
 1. [Food Kart - Ecommerce](https://food-kart-5uf5.onrender.com) (P.S My very first page running backend: Node.js and Express, really enjoyed it)
 2. [Personal Portfolio](https://yaoolee.github.io/personal-portfolio/)
