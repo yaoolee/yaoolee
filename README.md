@@ -51,6 +51,7 @@ All of my work lives here on GitHub: [yaoolee](https://github.com/yaoolee)
 ## 💪 Upcoming Projects
 1. [Food Kart - Ecommerce](https://food-kart-5uf5.onrender.com) (P.S My very first page running backend: Node.js and Express, really enjoyed it)
 2. [Personal Portfolio](https://yaoolee.github.io/personal-portfolio/)
+3. Timely 
 
 ## 📈 GitHub Stats
 
